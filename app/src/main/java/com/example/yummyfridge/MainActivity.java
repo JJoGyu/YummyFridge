@@ -160,6 +160,14 @@ public class MainActivity extends Activity {
                 startActivityForResult(intent,0);
             }
         });
+        ImageButton btntimer = (ImageButton) findViewById(R.id.btntimer);
+        btntimer.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), timer_main.class);
+                startActivity(intent);
+            }
+        });
 
         //냉장고 DB불러오기
         myDB = new MyDatabaseHelper(MainActivity.this);
