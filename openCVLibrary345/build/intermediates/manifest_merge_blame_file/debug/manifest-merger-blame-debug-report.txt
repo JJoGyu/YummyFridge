@@ -6,8 +6,8 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="15"
-8-->C:\Users\DIAMOND\StudioProjects\YummyFridge\openCVLibrary345\src\main\AndroidManifest.xml
+8-->C:\Users\rbtjd\StudioProjects\yummyfridge\openCVLibrary345\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->C:\Users\DIAMOND\StudioProjects\YummyFridge\openCVLibrary345\src\main\AndroidManifest.xml
+9-->C:\Users\rbtjd\StudioProjects\yummyfridge\openCVLibrary345\src\main\AndroidManifest.xml
 10
 11</manifest>
